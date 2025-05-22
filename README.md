@@ -1,5 +1,5 @@
 # Chicago-Bears-Project
-** An analysis of the Chicago Bear's performance from 1920-2023**
+*An analysis of the Chicago Bear's performance from 1920-2023*
 
 This was one of the first major Data Projects I did for my STAT 107 course at the University of Illinois. While it is basic, I hope to showcase this project so years from now I can show my progress. The goal of this project was to showcase all the major topics we covered in the course. 
 
