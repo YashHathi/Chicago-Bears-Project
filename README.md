@@ -8,7 +8,6 @@ This was one of the first major Data Projects I did for my STAT 107 course at th
 - EDA
 - Data Visualization
 - Statistical Modeling
-- 
 ## Data Set
 The data for this project was sourced from: https://www.pro-football-reference.com/teams/chi
 ## Tools for this project include:
