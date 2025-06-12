@@ -1,5 +1,5 @@
 # Chicago-Bears-Project
-![Chicago Bears Epic](fekztcsblx4irilj05i2)
+![Chicago Bears Epic](fekztcsblx4irilj05i2.webp)
 
 *An analysis of the Chicago Bear's performance from 1920-2023*
 
